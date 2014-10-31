@@ -1,0 +1,4 @@
+# ForadianMessPlugin
+class ForadianMessPlugin
+
+end
